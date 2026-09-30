@@ -10,6 +10,9 @@
 DocuMind is an enterprise-grade, full-stack **Retrieval-Augmented Generation (RAG)** application designed to ingest single or multi-file PDF documents, preprocess and chunk text, compute high-dimensional dense vector embeddings with Transformer models, perform sub-millisecond semantic search via a FAISS vector index, and synthesize factually grounded, hallucination-free answers with **Google Gemini**.
 
 Every generated answer is accompanied by strict provenance citations: identifying the exact document name, page number, and chunk relevance score.
+## 🔗 Live Demo
+
+👉 [Open DocuMind](https://documind-ai-document-intelligence-rag.ai.studio)
 
 ---
 
