@@ -1,0 +1,6 @@
+{
+  "name": "DocuMind - AI Document Intelligence & RAG",
+  "description": "Full-stack Retrieval-Augmented Generation (RAG) assistant for querying PDF documents with semantic FAISS search, Google Gemini grounding, and source page citations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
